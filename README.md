@@ -51,4 +51,4 @@ Quick Overview of New Data Model:
 In order to build a normalized datamodel, I have generated a new table from Receipts data called ReceiptItem\_Table table which consists of receipt\_id, and all the normalized fields from rewardsReceiptitemList field. This can be used to join between receipt and brand table enabling us to maintain a relational structure in our data model.
 
   
-![title](Relational_Diagram.png)
+![title](1.%20Relational_Diagram.png)
